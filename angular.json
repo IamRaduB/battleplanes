@@ -35,7 +35,6 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "node_modules/popper/index.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/excalibur/dist/excalibur.min.js"
             ]
